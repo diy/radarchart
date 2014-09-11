@@ -1,0 +1,29 @@
+{
+  "name": "diy-radarchart",
+  "version": "0.0.1",
+  "description": "Reusable radar chart module for DIY.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js",
+    "start": "cd examples && ../node_modules/.bin/beefy main.js:bundle.js"
+  },
+  "author": "Derek Reynolds <drk@diy.org>",
+  "contributors": [
+      {
+        "name": "Ri Liu",
+        "email": "me@ri.id.au",
+        "url": "http://www.ri.id.au/"
+      },
+      {
+        "name": "Derek Reynolds",
+        "email": "drk@diy.org",
+        "url": "https://diy.org/drk"
+      }
+  ],
+  "license": "APACHE 2",
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^5.11.1",
+    "d3": "^3.4.11"
+  }
+}
