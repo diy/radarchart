@@ -1,6 +1,6 @@
 {
   "name": "diy-radarchart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reusable radar chart module for DIY.",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,11 @@
       }
   ],
   "license": "APACHE 2",
+  "dependencies": {
+      "d3": "^3.4.11"
+  },
   "devDependencies": {
     "beefy": "^2.1.1",
-    "browserify": "^5.11.1",
-    "d3": "^3.4.11"
+    "browserify": "^5.11.1"
   }
 }
