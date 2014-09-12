@@ -1,7 +1,11 @@
 {
   "name": "diy-radarchart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reusable radar chart module for DIY.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diy/radarchart.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jshint index.js",

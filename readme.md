@@ -2,6 +2,8 @@
 
 Render a radar chart using d3.
 
+[![view on requirebin](http://requirebin.com/badge.png)](http://requirebin.com/?gist=fec38312dc4cda8c0b3a)
+
 # example
 
 Let's render a chart w/ 4 data points!
